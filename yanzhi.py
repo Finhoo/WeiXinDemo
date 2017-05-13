@@ -22,5 +22,3 @@ def yanzhi(url):
 
     return result
 
-# yanzhi('http://mmbiz.qpic.cn/mmbiz_jpg/thULgI0K2EtCbMd2hPtwZXYkzdOoiaptGsd73Q6PaM0x2Rp0KrSzXK9SgLVfickiaLNM7NhrNI2P90cnEQlx64cqQ/0')
-
